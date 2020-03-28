@@ -2,6 +2,8 @@
 
 Automates the process of creating unique folders for all students in academic program. Previously, I created manually created folders for all students labeled with their name and University ID number. When students number in the hundreds, this tool saves several hours of copying and pasting.
 
+Made with the Ruby programming language.
+
 ## Usage
 
 Use the Ruby version manager [rbenv](https://github.com/rbenv/rbenv#installation) to install Ruby.
